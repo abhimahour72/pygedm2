@@ -28,7 +28,7 @@ thetasg 75.8
 Gamma_w 0.14
 
 # Sun
-z_Sun 6.0
+z_Sun 0.0
 
 # Galactic center
 
