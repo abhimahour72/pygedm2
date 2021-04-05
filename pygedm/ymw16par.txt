@@ -47,12 +47,12 @@ J_LB 0.480
 nlb1 0.0
 detlb1 28.4
 wlb1 14.2
-hlb1 112.9
+hlb1 0.0
 thetalb1 195.4
 nlb2 0.0
 detlb2 14.7 
 wlb2 15.6
-hlb2 43.6
+hlb2 0.0
 thetalb2 278.2
 
 # Loop I
