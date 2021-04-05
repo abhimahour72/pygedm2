@@ -44,10 +44,10 @@ Kgn 1.4
 
 # Local enhancement
 J_LB 0.480
-nlb1 1.094
+nlb1 0.0
 detlb1 28.4
 wlb1 14.2
-hlb1 0.0
+hlb1 112.9
 thetalb1 195.4
 nlb2 0.0
 detlb2 14.7 
