@@ -25,7 +25,7 @@ wsg 20
 thetasg 75.8
 
 # Warp
-Gamma_w 0.0
+Gamma_w 0.14
 
 # Sun
 z_Sun 6.0
