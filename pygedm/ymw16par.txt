@@ -12,11 +12,11 @@ n2 0.0
 K2 1.54
 
 # Spiral arm
-B2s 4000
+B2s 6000
 Ka 5.015
 Ele_arm 1.0 1.0 1.0 1.0 1.0
 Wid_arm 300 300 300 300 300
-Aa 8000
+Aa 11680
 ncn 0.0
 wcn 8.2
 thetacn 109
