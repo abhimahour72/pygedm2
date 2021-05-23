@@ -16,7 +16,7 @@ B2s 0.0
 Ka 5.015
 Ele_arm 1.0 1.0 1.0 1.0 1.0
 Wid_arm 300 300 300 300 300
-Aa 3500
+Aa 1000
 ncn 0.0
 wcn 8.2
 thetacn 109
