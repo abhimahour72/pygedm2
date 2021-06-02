@@ -18,7 +18,7 @@ Ele_arm 1.0 1.0 1.0 1.0 1.0
 Wid_arm 300 300 300 300 300
 Aa 11680
 ncn 0.0
-wcn 800.2
+wcn 8.2
 thetacn 109
 nsg 0.0
 wsg 20
