@@ -19,10 +19,10 @@ Wid_arm 300 300 300 300 300
 Aa 11680
 ncn 0.0
 wcn 8.2
-thetacn 0.0
+thetacn 109
 nsg 0.0
 wsg 20
-thetasg 75.8
+thetasg 0.0
 
 # Warp
 Gamma_w 0.14
