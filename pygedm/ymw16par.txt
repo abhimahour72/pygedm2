@@ -22,7 +22,7 @@ wcn 8.2
 thetacn 109
 nsg 0.0
 wsg 20
-thetasg 0.0
+thetasg 7500
 
 # Warp
 Gamma_w 0.14
