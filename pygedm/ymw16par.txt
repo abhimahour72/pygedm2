@@ -12,11 +12,11 @@ n2 0.0
 K2 1.54
 
 # Spiral arm
-B2s 20000              ####Earlier it was 4000 (2/06/2021)
+B2s 4000              ####Earlier it was 4000 (2/06/2021)
 Ka 5.015
 Ele_arm 1.0 1.0 1.0 1.0 1.0
 Wid_arm 300 300 300 300 300
-Aa 5000                     #### Aa was 11680 (2/06/2021)
+Aa 100                     #### Aa was 11680 (2/06/2021)
 ncn 0.0
 wcn 8.2
 thetacn 109
